@@ -1,7 +1,7 @@
 # 👋 Halo, saya Zafan Ahmad Rau!
 
 <p align="center">
-  <img src="https://github.com/ZafanAhmadRau/ZafanAhmadRau/blob/main/pacman-contribution-graph-dark.svg" />
+  <img src="https://github.com/ZafanAhmadRau/ZafanAhmadRau/blob/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 ### 👨‍💻 Tentang Saya
