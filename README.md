@@ -9,7 +9,7 @@
 - 🎓 Saya seorang mahasiswa **Teknik Komputer** di **Universitas Jenderal Soedirman**.
 - 💡 Saya tertarik dengan pengembangan web dan selalu antusias untuk mempelajari teknologi baru.
 - 🌱 Saat ini, saya sedang mendalami **JavaScript** dan berbagai *framework*-nya.
-- 📫 Kamu bisa menghubungi saya melalui [email@contoh.com](mailto:email@contoh.com).
+- 📫 Kamu bisa menghubungi saya melalui [zafanahmad@gmail.com](mailto:zafanahmad@gmail.com).
 
 ### 💻 Teknologi yang Saya Kuasai
 
