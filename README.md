@@ -26,6 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafanAhmadRau&layout=compact&theme=dracula" alt="Bahasa Teratas Zafan" />
 </p>
 
----
 
-*Catatan: Ganti `ZafanAhmadRau` dengan nama pengguna GitHub-mu jika berbeda, dan sesuaikan tautan kontak jika perlu.*
