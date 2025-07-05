@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Halo, saya Zafan Ahmad Rau!
 
-<!--
-**zfanar/zfanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/ZafanAhmadRau/ZafanAhmadRau/blob/main/pacman.svg" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Saya seorang mahasiswa **Teknik Komputer** di **Universitas Jenderal Soedirman**.
+- 💡 Saya tertarik dengan pengembangan web dan selalu antusias untuk mempelajari teknologi baru.
+- 🌱 Saat ini, saya sedang mendalami **JavaScript** dan berbagai *framework*-nya.
+- 📫 Kamu bisa menghubungi saya melalui [email@contoh.com](mailto:email@contoh.com).
+
+### 💻 Teknologi yang Saya Kuasai
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,github" />
+  </a>
+</p>
+
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZafanAhmadRau&show_icons=true&theme=dracula" alt="Statistik GitHub Zafan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafanAhmadRau&layout=compact&theme=dracula" alt="Bahasa Teratas Zafan" />
+</p>
+
+---
+
+*Catatan: Ganti `ZafanAhmadRau` dengan nama pengguna GitHub-mu jika berbeda, dan sesuaikan tautan kontak jika perlu.*
