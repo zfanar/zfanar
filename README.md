@@ -21,11 +21,4 @@
 
 ### 📊 Statistik GitHub Saya
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cwrlkxo3cfr5237rn4cb7vkeaa)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZafanAhmadRau&show_icons=true&theme=dracula" alt="Statistik GitHub Zafan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZafanAhmadRau&layout=compact&theme=dracula" alt="Bahasa Teratas Zafan" />
-</p>
-
 
